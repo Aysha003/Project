@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  font-family: Arial;
+  border: border-box;
+}
+
+.ad{
+    background-color: rgb(166, 188, 188);
+    width: 95%;
+    margin: 40px;
+    height: 450px;
+}
+img {
+    width: 1410px;
+    height: 410px;
+    margin: 20px;
+}
